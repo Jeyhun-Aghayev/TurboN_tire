@@ -1,0 +1,17 @@
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.BUSINESS.deps.json
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.BUSINESS.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.BUSINESS.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.CORE.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.DAL.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.DAL.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\bin\Debug\net6.0\Turbo.CORE.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.csproj.CopyComplete
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\refint\Turbo.BUSINESS.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\Turbo.BUSINESS.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.BUSINESS\obj\Debug\net6.0\ref\Turbo.BUSINESS.dll

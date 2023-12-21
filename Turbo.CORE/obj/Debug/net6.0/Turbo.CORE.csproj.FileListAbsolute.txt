@@ -1,0 +1,12 @@
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\bin\Debug\net6.0\Turbo.CORE.deps.json
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\bin\Debug\net6.0\Turbo.CORE.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\bin\Debug\net6.0\Turbo.CORE.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\refint\Turbo.CORE.dll
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\Turbo.CORE.pdb
+C:\Users\II novbe\source\repos\Turbo.Net\Turbo.CORE\obj\Debug\net6.0\ref\Turbo.CORE.dll
